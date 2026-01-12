@@ -1,1 +1,4 @@
-# dashboard-app
+Pantry Monthly Dashboard
+
+Run:
+streamlit run app.py
